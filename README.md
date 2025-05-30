@@ -45,16 +45,27 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator"/></a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaas72&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;</p>
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaas72&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aaas72&show_icons=true&theme=default" 
+    alt="GitHub Stats" 
+    height="200" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaas72&layout=compact&theme=default" 
+    alt="Top Languages" 
+    height="200" 
+  />
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaas72&" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aaas72&theme=default" 
+    alt="GitHub Streak" 
+    height="200" 
+  />
+</div>
+
