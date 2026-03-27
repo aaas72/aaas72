@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on projects at [**abdellahsheikh.com**](https://abdellahsheikh.com)
+- 🔭 I’m currently working on projects at [**abdellahsheikh.com**](https://abdellahsheikh.dev)
 - 🌱 I’m always learning new technologies and improving my skills
 - 📫 Reach me at **abdellahsheikh.dev@gmail.com**
 - 📄 View my resume & experiences at [**abdellahsheikh.com**](https://abdellahsheikh.com)
