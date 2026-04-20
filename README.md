@@ -78,26 +78,10 @@
 </table>
 
 ---
-
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aaas72&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" 
-    alt="GitHub Stats" 
-    height="190" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaas72&layout=compact&hide_border=true&title_color=0e75b6" 
-    alt="Top Languages" 
-    height="190" 
-  />
-</div>
-
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aaas72&hide_border=true&title_color=0e75b6&icon_color=0e75b6" 
-    alt="GitHub Streak" 
-    height="190" 
-  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaas72&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaas72&layout=compact&hide_border=true&title_color=0e75b6" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaas72&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Streak" height="150" />
+</p>
