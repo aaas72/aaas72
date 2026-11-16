@@ -41,7 +41,7 @@ I'm a full-stack engineer who designs and ships complete products — from the d
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aaas72/EchoVision">EchoVision</a></h3>
-      <p>Zero-UI mobile assistant for visually impaired users: hazard detection, scene description, medication and currency reading — guided by voice and haptics.</p>
+      <p>Zero-UI mobile assistant for visually impaired users: live object detection, scene description, text and medication reading, and currency recognition with a custom-trained model — guided by voice and haptics.</p>
       <p><code>Flutter</code> <code>YOLO11</code> <code>TensorFlow Lite</code> <code>Gemini</code> <code>TTS</code></p>
     </td>
   </tr>
@@ -77,6 +77,8 @@ I'm a full-stack engineer who designs and ships complete products — from the d
 
 | Project | Description | Stack |
 |---|---|---|
+| [THE HUB — Master Index](https://github.com/aaas72/MASTER-INDEX) | Interactive algorithm lab with step-by-step visualizers · [live demo](https://aaas72.github.io/MASTER-INDEX/) | Next.js · TypeScript · Framer Motion |
+| [Smart Attendance](https://github.com/aaas72/Yoklama-Platformu) | Face-recognition roll call for schools | React · FastAPI · OpenCV · MySQL |
 | [TrustFlow Platform](https://github.com/aaas72/TrustFlow-Platform) | Freelance marketplace with escrow and milestone-based project lifecycle | React 19 · Express 5 · MySQL · Socket.io |
 | [SplitEase](https://github.com/aaas72/Sp-itEsae) | Mobile app for sharing expenses, tracking and settling debts | React Native · Expo · Express · MongoDB |
 | [Sinerji Matching Service](https://github.com/aaas72/sinerji-matching-microservice) | Hybrid deterministic + semantic matching engine | Python · FastAPI · Sentence-Transformers |
@@ -84,6 +86,8 @@ I'm a full-stack engineer who designs and ships complete products — from the d
 | [Full-Stack Blog](https://github.com/aaas72/BlogAPI) | Blog application with authentication and admin features | React · Express · MongoDB |
 | [Modern Angular Handbook](https://github.com/aaas72/modern-angular-handbook) | Reference guide to Angular 19+ with Signals and standalone APIs | Angular · TypeScript · Tailwind |
 | [MASTER-INDEX-REP](https://github.com/aaas72/MASTER-INDEX-REP) | 20 core algorithms implemented in three languages | TypeScript · Python · C++ |
+| [EcoMix](https://github.com/aaas72/-EcoMix) | Low-carbon concrete mix optimizer (TS EN 206) | Next.js · TypeScript · Recharts |
+| [Wird](https://github.com/aaas72/WirdApp) | Offline-first daily worship tracker | Flutter · Riverpod · Hive |
 | [Delivery Route Optimization](https://github.com/aaas72/RotasOptimizasyonu) | Ant Colony Optimization on real city road data | Python · OSMnx |
 
 </details>
