@@ -122,9 +122,6 @@ I'm a full-stack engineer who designs and ships complete products — from the d
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaas72&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0E75B6&icon_color=0E75B6" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaas72&layout=compact&langs_count=8&hide_border=true&title_color=0E75B6" alt="Top languages" height="165" />
-  <br />
   <img src="https://streak-stats.demolab.com/?user=aaas72&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub streak" />
 </div>
 
