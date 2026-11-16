@@ -52,16 +52,16 @@ I'm a full-stack engineer who designs and ships complete products — from the d
       <p><code>Angular</code> <code>ASP.NET Core</code> <code>C#</code> <code>Gemini API</code> <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aaas72/yod-elazig">YÖD Elazığ Platform</a></h3>
-      <p>Trilingual (AR / EN / TR) platform and admin dashboard for a student union: news, events, programs and a searchable student guide.</p>
-      <p><code>Next.js 16</code> <code>React 19</code> <code>Express</code> <code>MongoDB</code> <code>Docker</code></p>
+      <h3><a href="https://github.com/aaas72/MASTER-INDEX">THE HUB — Master Index</a></h3>
+      <p>Interactive algorithm lab: step-by-step visualizers, a playground with execution history and head-to-head algorithm comparisons. <a href="https://aaas72.github.io/MASTER-INDEX/">Live demo</a></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Framer Motion</code> <code>Zod</code> <code>GitHub Pages</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aaas72/abyan-portal-platform">Abyan Cultural Portal</a></h3>
-      <p>Cultural encyclopedia portal covering history, heritage and geography, with an admin CMS, SEO system and containerized deployment.</p>
-      <p><code>Next.js</code> <code>NestJS</code> <code>TypeScript</code> <code>Docker</code> <code>Nginx</code></p>
+      <h3><a href="https://github.com/aaas72/TrustFlow-Platform">TrustFlow</a></h3>
+      <p>Freelance marketplace built on zero-trust escrow: Stripe-funded milestones, bidding, revisions, real-time notifications and mutual reviews.</p>
+      <p><code>React 19</code> <code>Express 5</code> <code>MySQL</code> <code>Stripe</code> <code>Socket.io</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aaas72/zero-delay-autofill-pro">Zero-Delay Auto-Fill</a></h3>
@@ -77,9 +77,7 @@ I'm a full-stack engineer who designs and ships complete products — from the d
 
 | Project | Description | Stack |
 |---|---|---|
-| [THE HUB — Master Index](https://github.com/aaas72/MASTER-INDEX) | Interactive algorithm lab with step-by-step visualizers · [live demo](https://aaas72.github.io/MASTER-INDEX/) | Next.js · TypeScript · Framer Motion |
 | [Smart Attendance](https://github.com/aaas72/Yoklama-Platformu) | Face-recognition roll call for schools | React · FastAPI · OpenCV · MySQL |
-| [TrustFlow Platform](https://github.com/aaas72/TrustFlow-Platform) | Freelance marketplace with escrow and milestone-based project lifecycle | React 19 · Express 5 · MySQL · Socket.io |
 | [SplitEase](https://github.com/aaas72/Sp-itEsae) | Mobile app for sharing expenses, tracking and settling debts | React Native · Expo · Express · MongoDB |
 | [Sinerji Matching Service](https://github.com/aaas72/sinerji-matching-microservice) | Hybrid deterministic + semantic matching engine | Python · FastAPI · Sentence-Transformers |
 | [Blog Management System](https://github.com/aaas72/Blog_Management_System) | Layered blog backend with JWT auth and RBAC | Python · FastAPI · SQLAlchemy · MySQL |
