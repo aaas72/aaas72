@@ -78,13 +78,13 @@ I'm a full-stack engineer who designs and ships complete products — from the d
 | Project | Description | Stack |
 |---|---|---|
 | [Smart Attendance](https://github.com/aaas72/Yoklama-Platformu) | Face-recognition roll call for schools | React · FastAPI · OpenCV · MySQL |
-| [SplitEase](https://github.com/aaas72/Sp-itEsae) | Mobile app for sharing expenses, tracking and settling debts | React Native · Expo · Express · MongoDB |
+| [SplitEase](https://github.com/aaas72/splitease) | Mobile app for sharing expenses, tracking and settling debts | React Native · Expo · Express · MongoDB |
 | [Sinerji Matching Service](https://github.com/aaas72/sinerji-matching-microservice) | Hybrid deterministic + semantic matching engine | Python · FastAPI · Sentence-Transformers |
 | [Blog Management System](https://github.com/aaas72/Blog_Management_System) | Layered blog backend with JWT auth and RBAC | Python · FastAPI · SQLAlchemy · MySQL |
 | [Full-Stack Blog](https://github.com/aaas72/BlogAPI) | Blog application with authentication and admin features | React · Express · MongoDB |
 | [Modern Angular Handbook](https://github.com/aaas72/modern-angular-handbook) | Reference guide to Angular 19+ with Signals and standalone APIs | Angular · TypeScript · Tailwind |
 | [MASTER-INDEX-REP](https://github.com/aaas72/MASTER-INDEX-REP) | 20 core algorithms implemented in three languages | TypeScript · Python · C++ |
-| [EcoMix](https://github.com/aaas72/-EcoMix) | Low-carbon concrete mix optimizer (TS EN 206) | Next.js · TypeScript · Recharts |
+| [EcoMix](https://github.com/aaas72/ecomix) | Low-carbon concrete mix optimizer (TS EN 206) | Next.js · TypeScript · Recharts |
 | [Wird](https://github.com/aaas72/WirdApp) | Offline-first daily worship tracker | Flutter · Riverpod · Hive |
 | [Delivery Route Optimization](https://github.com/aaas72/RotasOptimizasyonu) | Ant Colony Optimization on real city road data | Python · OSMnx |
 
