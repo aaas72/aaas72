@@ -69,6 +69,18 @@ I'm a full-stack engineer who designs and ships complete products — from the d
       <p><code>TypeScript</code> <code>Manifest V3</code> <code>Vite</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Haykal <sub><i>private repo</i></sub></h3>
+      <p>Arabic platform for software-architecture analysis: system dissections and architecture decision records. CI runs lint, unit and e2e tests against a real MongoDB on every push.</p>
+      <p><code>Angular</code> <code>NestJS</code> <code>MongoDB</code> <code>Docker</code> <code>GitHub Actions</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Abyan Cultural Portal <sub><i>private repo</i></sub></h3>
+      <p>Full-stack cultural encyclopedia with an admin CMS, hardened API (Helmet, throttling, caching, health checks) and separate CI/CD pipelines for frontend and backend.</p>
+      <p><code>Next.js 16</code> <code>NestJS 11</code> <code>MongoDB</code> <code>Docker</code> <code>Nginx</code></p>
+    </td>
+  </tr>
 </table>
 
 <details>
